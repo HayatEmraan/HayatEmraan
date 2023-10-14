@@ -20,8 +20,8 @@
 ## 🌐 Socials:
 
 <p align="left">
-<a href="https://discord.gg/hayatemraan" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="hayatemraan" height="27" width="65" /></a>
-<a href="https://linkedin.com/in/hayatemraan" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="hayatemraan" height="27" width="65" /></a>
+<a href="https://discord.com/users/hayatemraan" target="_blank"><img align="center" src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="hayatemraan" height="27" width="65" /></a>
+<a href="https://linkedin.com/in/hayatemraan" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="hayatemraan" height="27" width="65" /></a>
 </p>
 
 ## 💻 Languages and Tools:
