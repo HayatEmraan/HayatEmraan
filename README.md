@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **React, Next, MongoDB, Express**
 
-## 🌐 Socials:
+## :mailbox: Connect with me
 
 <p align="left">
 <a href="https://discord.com/users/hayatemraan" target="_blank"><img align="center" src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="hayatemraan"  height="27"  /></a>
@@ -40,7 +40,3 @@
 ## ✍️ Random Dev Quote:
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
-
-## 😂 Random Dev Meme
-
-<img src='https://randommeme-five.vercel.app/' style="height: 400px; border-radius: 8px;" />
