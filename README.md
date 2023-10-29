@@ -17,12 +17,13 @@
 
 - 💬 Ask me about **React, Next, MongoDB, Express**
 
-## 🌐 Socials:
+## :mailbox: Connect with me!
 
 <p align="left">
 <a href="https://discord.com/users/hayatemraan" target="_blank"><img align="center" src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="hayatemraan"  height="27"  /></a>
 <a href="https://linkedin.com/in/hayatemraan" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="hayatemraan" height="27" /></a>
-<a href="mailto:sayhitorainmaker@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="hayatemraan" height="27" style="border-radius: 4px" /></a>
+<a href="mailto:hayatprestige@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" alt="hayatemraan" height="27" style="border-radius: 4px" /></a>
+<a href="https://emraan.me" target="_blank"><img align="center" src="https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://emraan.me" alt="hayatemraan" height="27" style="border-radius: 4px" /></a>
 </p>
 
 ## 💻 Languages and Tools:
