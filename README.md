@@ -11,7 +11,7 @@
 
 - 🔭We've done recently a project [Dwelling](https://github.com/HayatEmraan/dwelling)
 
-- 🌱 I'm currently learning **Prisma**
+- 🌱 I'm currently learning **TypeScript OOP**
 
 - 👨‍💻 All of my projects are available at [https://emraan.me/works](https://emraan.me/works)
 
