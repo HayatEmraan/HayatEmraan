@@ -9,9 +9,9 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=hayatemraan)
 
-- 🔭We've done recently a project [Dwelling](https://github.com/HayatEmraan/dwelling)
+- 🔭I'm currently working on [UOV](https://github.com/HayatEmraan/university-of-village)
 
-- 🌱 I'm currently learning **TypeScript OOP**
+- 🌱 I'm currently learning **Mongoose**
 
 - 👨‍💻 All of my projects are available at [https://emraan.me/works](https://emraan.me/works)
 
