@@ -49,13 +49,56 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=hayatemraan&)
+**I'm a Night 🦉** 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hayatemraan&theme=github) ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hayatemraan&theme=github)
+```text
+🌞 Morning                284 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
+🌆 Daytime                2368 commits        █████████░░░░░░░░░░░░░░░░   34.03 % 
+🌃 Evening                3240 commits        ████████████░░░░░░░░░░░░░   46.57 % 
+🌙 Night                  1066 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.32 % 
+```
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HayatEmraan&theme=github)
 
-## ✍️ Random Dev Quote:
+📊 **This Week I Spent My Time On** 
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+```text
+🕑︎ Time Zone: Asia/Dubai
 
+💬 Programming Languages: 
+C++                      51 mins             ███████░░░░░░░░░░░░░░░░░░   27.32 % 
+Python                   46 mins             ██████░░░░░░░░░░░░░░░░░░░   24.35 % 
+XML                      34 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.95 % 
+C                        18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
+CMake                    12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.68 % 
+
+🐱‍💻 Projects: 
+src                      1 hr 29 mins        ████████████░░░░░░░░░░░░░   46.97 % 
+swarm_mission            55 mins             ███████░░░░░░░░░░░░░░░░░░   29.16 % 
+scroll_bridge            36 mins             █████░░░░░░░░░░░░░░░░░░░░   19.16 % 
+sybilis                  8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
+```
+
+
+ Last Updated on 27/06/2024 12:37:41 UTC
+<!--END_SECTION:waka-->
+
+<!--START_SECTION:waka-simple-->
+
+```text
+From: 16 July 2020 - To: 26 June 2024
+
+Total Time: 1,683 hrs 45 mins
+
+C++                592 hrs 5 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   35.16 %
+Go                 313 hrs 18 mins ⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   18.61 %
+Python             241 hrs 39 mins ⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   14.35 %
+C                  134 hrs 38 mins ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.00 %
+Bash               84 hrs 19 mins  ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.01 %
+YAML               77 hrs 18 mins  ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.59 %
+```
+
+<!--END_SECTION:waka-simple-->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
