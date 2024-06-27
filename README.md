@@ -12,7 +12,7 @@
 <img src='https://github.com/keshavsingh4522/keshavsingh4522/blob/master/Assets/Monkey_Kid_Coding.gif' align='right' height="250" >
 
 - :school: I've pursued HSC(Business Studies) from <a href="http://domargc.edu.bd/">@DGC</a>
-- 🔭I'm currently working on [UOV](https://github.com/HayatEmraan/university-of-village)
+- 🔭 I'm currently working on [UOV](https://github.com/HayatEmraan/university-of-village)
 
 - :neutral_face: I have a **love/hate** relationship with **Programming**
 
