@@ -20,11 +20,23 @@
 ## :mailbox: Connect with me
 
 <p align="left">
-<a href="https://emraan.me/" target="_blank"><img align="center" src="https://img.shields.io/badge/Website-%23.svg?&style=border-for-the-badge&logo=www&logoColor=white%22&color=black" alt="hayatemraan"  height="27" /></a>
 <a href="https://discord.com/users/hayatemraan" target="_blank"><img align="center" src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="hayatemraan"  height="27"  /></a>
 <a href="https://linkedin.com/in/hayatemraan" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="hayatemraan" height="27" /></a>
 <a href="mailto:hayatprestige@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" alt="hayatemraan" height="27" style="border-radius: 4px" /></a>
 </p>
+
+<div align="left">
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
+ <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="50" height="50" />
+</div>
 
 ## 💻 Languages and Tools:
 
